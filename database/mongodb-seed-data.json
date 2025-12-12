@@ -1,0 +1,2500 @@
+{
+  "categories": [
+    {
+      "_id": "693076a2f1547f4f90935ece",
+      "name": "Laptop",
+      "slug": "laptop",
+      "image": "/category1.png",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.282Z",
+      "updatedAt": "2025-12-03T17:42:58.282Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ecf",
+      "name": "Tản nhiệt",
+      "slug": "cooling",
+      "image": "/category10.png",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed0",
+      "name": "Nguồn",
+      "slug": "psu",
+      "image": "/category11.png",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed1",
+      "name": "Bàn phím",
+      "slug": "keyboard",
+      "image": "/category12.jpg",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed2",
+      "name": "Chuột",
+      "slug": "mouse",
+      "image": "/category13.jpg",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed3",
+      "name": "PC",
+      "slug": "pc",
+      "image": "/category2.png",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed4",
+      "name": "Màn hình",
+      "slug": "monitor",
+      "image": "/category3.jpg",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed5",
+      "name": "Mainboard",
+      "slug": "mainboard",
+      "image": "/category4.png",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed6",
+      "name": "CPU",
+      "slug": "cpu",
+      "image": "/category5.png",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed7",
+      "name": "VGA",
+      "slug": "vga",
+      "image": "/category6.jpg",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed8",
+      "name": "RAM",
+      "slug": "ram",
+      "image": "/category7.png",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935ed9",
+      "name": "Ổ cứng",
+      "slug": "storage",
+      "image": "/category8.png",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935eda",
+      "name": "Case",
+      "slug": "case",
+      "image": "/category9.png",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.284Z",
+      "updatedAt": "2025-12-03T17:42:58.284Z"
+    }
+  ],
+  "products": [
+    {
+      "_id": "693076a2f1547f4f90935edc",
+      "slug": "pc-gaming-rtx-4090-ultra",
+      "name": "PC Gaming GVN Intel Core Ultra 9 285K | RTX 4090",
+      "price": 85990000,
+      "originalPrice": 95000000,
+      "rating": 5,
+      "reviewCount": 127,
+      "mainImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&q=80",
+        "https://images.unsplash.com/photo-1591238372338-a663a95ab2f4?w=800&q=80",
+        "https://images.unsplash.com/photo-1600861194802-a2b11f26e9c4?w=800&q=80",
+        "https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=800&q=80"
+      ],
+      "description": "PC Gaming cao cấp với hiệu năng đỉnh cao, phù hợp cho game thủ chuyên nghiệp và content creator. Trang bị CPU Intel Core Ultra 9 thế hệ mới nhất cùng card đồ họa RTX 4090 mạnh mẽ.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": "Quà tặng HOT",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 285K",
+        "ram": "32GB DDR5 6400MHz",
+        "gpu": "NVIDIA RTX 4090 24GB",
+        "storage": "2TB NVMe Gen4 SSD",
+        "weight": "15kg"
+      },
+      "variants": [
+        {
+          "name": "RAM 32GB",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935edd"
+        },
+        {
+          "name": "RAM 64GB",
+          "priceAdjustment": 8000000,
+          "_id": "693076a2f1547f4f90935ede"
+        },
+        {
+          "name": "SSD 2TB",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935edf"
+        },
+        {
+          "name": "SSD 4TB",
+          "priceAdjustment": 5000000,
+          "_id": "693076a2f1547f4f90935ee0"
+        }
+      ],
+      "highlightFeatures": [
+        "Intel Core Ultra 9 285K - Hiệu năng vượt trội",
+        "RTX 4090 24GB - Chiến mọi tựa game 4K",
+        "RAM 32GB DDR5 6400MHz - Đa nhiệm mượt mà",
+        "2TB NVMe Gen4 - Tốc độ đọc/ghi siêu nhanh",
+        "Tản nhiệt AIO 360mm - Làm mát hiệu quả",
+        "Nguồn 1000W 80+ Gold - Ổn định tuyệt đối"
+      ],
+      "createdAt": "2025-12-03T17:42:58.318Z",
+      "updatedAt": "2025-12-03T17:42:58.318Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935ee2",
+      "slug": "pc-gaming-rtx-4060ti",
+      "name": "PC GVN Intel i5-13400F | RTX 4060 Ti 16GB",
+      "price": 26990000,
+      "originalPrice": 31990000,
+      "rating": 4.6,
+      "reviewCount": 203,
+      "mainImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=800&q=80",
+      "gallery": [],
+      "description": "PC Gaming giá tốt với RTX 4060 Ti 16GB, phù hợp cho game thủ sinh viên.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": null,
+      "specs": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16GB DDR4 3200MHz",
+        "gpu": "NVIDIA RTX 4060 Ti 16GB",
+        "storage": "512GB NVMe SSD"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "i5-13400F 10 nhân",
+        "RTX 4060 Ti 16GB",
+        "Giá cả phải chăng",
+        "Hiệu năng ổn định"
+      ],
+      "createdAt": "2025-12-03T17:42:58.328Z",
+      "updatedAt": "2025-12-03T17:42:58.328Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935ee4",
+      "slug": "pc-workstation-rtx-4000",
+      "name": "PC Workstation Intel Xeon W-2445 | RTX 4000 Ada",
+      "price": 95990000,
+      "originalPrice": 110000000,
+      "rating": 5,
+      "reviewCount": 34,
+      "mainImage": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=800&q=80",
+      "gallery": [],
+      "description": "Workstation chuyên nghiệp cho rendering, thiết kế 3D, AI/ML.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": "Workstation",
+      "specs": {
+        "cpu": "Intel Xeon W-2445",
+        "ram": "64GB DDR5 ECC",
+        "gpu": "NVIDIA RTX 4000 Ada 20GB",
+        "storage": "2TB NVMe SSD"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Xeon W-2445 10 nhân",
+        "RAM ECC - Ổn định tuyệt đối",
+        "RTX 4000 Ada 20GB",
+        "Bảo hành 3 năm"
+      ],
+      "createdAt": "2025-12-03T17:42:58.334Z",
+      "updatedAt": "2025-12-03T17:42:58.334Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935ee6",
+      "slug": "pc-gaming-mini-itx",
+      "name": "PC Gaming Mini ITX i7-14700K | RTX 4070 Ti",
+      "price": 52990000,
+      "originalPrice": 59990000,
+      "rating": 4.7,
+      "reviewCount": 67,
+      "mainImage": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=800&q=80",
+      "gallery": [],
+      "description": "PC Gaming nhỏ gọn nhưng mạnh mẽ, phù hợp cho không gian hạn chế.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": null,
+      "specs": {
+        "cpu": "Intel Core i7-14700K",
+        "ram": "32GB DDR5 6000MHz",
+        "gpu": "NVIDIA RTX 4070 Ti 12GB",
+        "storage": "1TB NVMe SSD",
+        "formFactor": "Mini ITX"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Thiết kế Mini ITX gọn gàng",
+        "i7-14700K 20 nhân",
+        "RTX 4070 Ti 12GB",
+        "Tản nhiệt AIO 240mm"
+      ],
+      "createdAt": "2025-12-03T17:42:58.339Z",
+      "updatedAt": "2025-12-03T17:42:58.339Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935ee8",
+      "slug": "pc-gaming-budget-rx-6700xt",
+      "name": "PC Gaming AMD Ryzen 5 5600 | RX 6700 XT",
+      "price": 18990000,
+      "originalPrice": 22990000,
+      "rating": 4.5,
+      "reviewCount": 178,
+      "mainImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&q=80",
+      "gallery": [],
+      "description": "PC Gaming giá rẻ nhưng vẫn chiến tốt game 1080p/1440p.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": "Giá tốt",
+      "specs": {
+        "cpu": "AMD Ryzen 5 5600",
+        "ram": "16GB DDR4 3200MHz",
+        "gpu": "AMD RX 6700 XT 12GB",
+        "storage": "500GB NVMe SSD"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Ryzen 5 5600 6 nhân",
+        "RX 6700 XT 12GB",
+        "Giá siêu tốt",
+        "Phù hợp sinh viên"
+      ],
+      "createdAt": "2025-12-03T17:42:58.345Z",
+      "updatedAt": "2025-12-03T17:42:58.345Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935eea",
+      "slug": "pc-gaming-white-build",
+      "name": "PC Gaming White Aesthetic i5-14600K | RTX 4070",
+      "price": 42990000,
+      "originalPrice": 48990000,
+      "rating": 4.8,
+      "reviewCount": 112,
+      "mainImage": "https://images.unsplash.com/photo-1591238372338-a663a95ab2f4?w=800&q=80",
+      "gallery": [],
+      "description": "PC Gaming full trắng với thiết kế thẩm mỹ cao, RGB trắng sang trọng.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": "White Build",
+      "specs": {
+        "cpu": "Intel Core i5-14600K",
+        "ram": "32GB DDR5 6000MHz",
+        "gpu": "NVIDIA RTX 4070 12GB White",
+        "storage": "1TB NVMe SSD"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Thiết kế full màu trắng",
+        "i5-14600K 14 nhân",
+        "RTX 4070 White Edition",
+        "RGB trắng đồng bộ"
+      ],
+      "createdAt": "2025-12-03T17:42:58.350Z",
+      "updatedAt": "2025-12-03T17:42:58.350Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935eec",
+      "slug": "pc-gaming-streamer-build",
+      "name": "PC Gaming Streamer i9-14900K | RTX 4080 | 64GB",
+      "price": 72990000,
+      "originalPrice": 82990000,
+      "rating": 4.9,
+      "reviewCount": 89,
+      "mainImage": "https://images.unsplash.com/photo-1600861194802-a2b11f26e9c4?w=800&q=80",
+      "gallery": [],
+      "description": "PC Gaming tối ưu cho streamer, có thể stream + game + record cùng lúc.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": "Streamer",
+      "specs": {
+        "cpu": "Intel Core i9-14900K",
+        "ram": "64GB DDR5 6400MHz",
+        "gpu": "NVIDIA RTX 4080 16GB",
+        "storage": "2TB NVMe SSD + 2TB HDD"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "i9-14900K 24 nhân - Đa nhiệm mạnh mẽ",
+        "RTX 4080 16GB - Encode NVENC",
+        "RAM 64GB - Stream mượt mà",
+        "Kèm capture card"
+      ],
+      "createdAt": "2025-12-03T17:42:58.355Z",
+      "updatedAt": "2025-12-03T17:42:58.355Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935eee",
+      "slug": "pc-gaming-silent-build",
+      "name": "PC Gaming Silent i7-13700 | RTX 4060 Ti",
+      "price": 35990000,
+      "originalPrice": 39990000,
+      "rating": 4.6,
+      "reviewCount": 94,
+      "mainImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=800&q=80",
+      "gallery": [],
+      "description": "PC Gaming siêu êm, tối ưu giảm ồn, phù hợp văn phòng hoặc phòng ngủ.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": "Silent",
+      "specs": {
+        "cpu": "Intel Core i7-13700 (Non-K)",
+        "ram": "32GB DDR5 5600MHz",
+        "gpu": "NVIDIA RTX 4060 Ti 8GB",
+        "storage": "1TB NVMe SSD"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Tản nhiệt Noctua NH-D15",
+        "Case cách âm Be Quiet!",
+        "Nguồn 80+ Platinum",
+        "Hoạt động gần như im lặng"
+      ],
+      "createdAt": "2025-12-03T17:42:58.360Z",
+      "updatedAt": "2025-12-03T17:42:58.360Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935ef0",
+      "slug": "laptop-lenovo-legion-5-pro",
+      "name": "Laptop Gaming Lenovo Legion 5 Pro i7-14700HX RTX 4060",
+      "price": 36990000,
+      "originalPrice": 42990000,
+      "rating": 4.7,
+      "reviewCount": 167,
+      "mainImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+      "gallery": [],
+      "description": "Laptop gaming tầm trung cao với màn hình 16:10 độc đáo, hiệu năng mạnh mẽ.",
+      "category": "Laptop Gaming",
+      "brand": "Lenovo",
+      "badge": null,
+      "specs": {
+        "cpu": "Intel Core i7-14700HX",
+        "ram": "16GB DDR5 5600MHz",
+        "gpu": "NVIDIA RTX 4060 8GB",
+        "storage": "512GB NVMe SSD",
+        "display": "16\" 2.5K 165Hz IPS",
+        "weight": "2.6kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "i7-14700HX 20 nhân",
+        "RTX 4060 8GB",
+        "Màn hình 16:10 2.5K",
+        "Tản nhiệt Legion Coldfront 5.0"
+      ],
+      "createdAt": "2025-12-03T17:42:58.365Z",
+      "updatedAt": "2025-12-03T17:42:58.365Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935ef2",
+      "slug": "laptop-hp-omen-16",
+      "name": "Laptop Gaming HP OMEN 16 i7-13700HX RTX 4070",
+      "price": 42990000,
+      "originalPrice": 48990000,
+      "rating": 4.6,
+      "reviewCount": 134,
+      "mainImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&q=80",
+      "gallery": [],
+      "description": "HP OMEN 16 với thiết kế tinh tế, hiệu năng cao, màn hình QHD 240Hz.",
+      "category": "Laptop Gaming",
+      "brand": "HP",
+      "badge": null,
+      "specs": {
+        "cpu": "Intel Core i7-13700HX",
+        "ram": "16GB DDR5 4800MHz",
+        "gpu": "NVIDIA RTX 4070 8GB",
+        "storage": "1TB NVMe SSD",
+        "display": "16.1\" QHD 240Hz",
+        "weight": "2.4kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "i7-13700HX 16 nhân",
+        "RTX 4070 8GB",
+        "Màn hình QHD 240Hz",
+        "OMEN Tempest Cooling"
+      ],
+      "createdAt": "2025-12-03T17:42:58.370Z",
+      "updatedAt": "2025-12-03T17:42:58.370Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935ef4",
+      "slug": "laptop-dell-g15",
+      "name": "Laptop Gaming Dell G15 5530 i5-13450HX RTX 3050",
+      "price": 18990000,
+      "originalPrice": 22990000,
+      "rating": 4.4,
+      "reviewCount": 256,
+      "mainImage": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800&q=80",
+      "gallery": [],
+      "description": "Laptop gaming giá rẻ, phù hợp sinh viên, game thủ mới bắt đầu.",
+      "category": "Laptop Gaming",
+      "brand": "Dell",
+      "badge": "Giá tốt",
+      "specs": {
+        "cpu": "Intel Core i5-13450HX",
+        "ram": "8GB DDR5 4800MHz",
+        "gpu": "NVIDIA RTX 3050 6GB",
+        "storage": "512GB NVMe SSD",
+        "display": "15.6\" FHD 120Hz",
+        "weight": "2.65kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "i5-13450HX 10 nhân",
+        "RTX 3050 6GB",
+        "Giá cực tốt",
+        "Bảo hành Dell chính hãng"
+      ],
+      "createdAt": "2025-12-03T17:42:58.376Z",
+      "updatedAt": "2025-12-03T17:42:58.376Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935ef6",
+      "slug": "laptop-gaming-asus-rog-strix",
+      "name": "Laptop Gaming ASUS ROG Strix G16 i9-14900HX RTX 4070",
+      "price": 45990000,
+      "originalPrice": 52990000,
+      "rating": 4.8,
+      "reviewCount": 89,
+      "mainImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+        "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&q=80",
+        "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800&q=80"
+      ],
+      "description": "Laptop gaming cao cấp ASUS ROG Strix G16 với thiết kế mạnh mẽ, hiệu năng vượt trội. Màn hình 240Hz mang đến trải nghiệm chơi game mượt mà nhất.",
+      "category": "Laptop Gaming",
+      "brand": "ASUS",
+      "badge": "Bán chạy",
+      "specs": {
+        "cpu": "Intel Core i9-14900HX",
+        "ram": "16GB DDR5 5600MHz",
+        "gpu": "NVIDIA RTX 4070 8GB",
+        "storage": "1TB NVMe SSD",
+        "display": "16\" 2K 240Hz IPS",
+        "weight": "2.5kg"
+      },
+      "variants": [
+        {
+          "name": "RAM 16GB",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935ef7"
+        },
+        {
+          "name": "RAM 32GB",
+          "priceAdjustment": 4000000,
+          "_id": "693076a2f1547f4f90935ef8"
+        }
+      ],
+      "highlightFeatures": [
+        "CPU i9-14900HX 24 nhân - Hiệu năng khủng",
+        "RTX 4070 8GB - Chiến game 2K mượt mà",
+        "Màn hình 240Hz - Hình ảnh siêu mượt",
+        "Bàn phím RGB Per-Key - Đẹp mắt, chuyên nghiệp",
+        "Tản nhiệt ROG Intelligent Cooling"
+      ],
+      "createdAt": "2025-12-03T17:42:58.383Z",
+      "updatedAt": "2025-12-03T17:42:58.383Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935efa",
+      "slug": "laptop-gigabyte-aorus-15",
+      "name": "Laptop Gaming GIGABYTE AORUS 15 i7-13700H RTX 4070",
+      "price": 44990000,
+      "originalPrice": 51990000,
+      "rating": 4.7,
+      "reviewCount": 98,
+      "mainImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+      "gallery": [],
+      "description": "GIGABYTE AORUS với thiết kế đẹp mắt, hiệu năng mạnh mẽ, trọng lượng nhẹ.",
+      "category": "Laptop Gaming",
+      "brand": "GIGABYTE",
+      "badge": null,
+      "specs": {
+        "cpu": "Intel Core i7-13700H",
+        "ram": "16GB DDR5 4800MHz",
+        "gpu": "NVIDIA RTX 4070 8GB",
+        "storage": "1TB NVMe SSD",
+        "display": "15.6\" QHD 165Hz",
+        "weight": "2.2kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "i7-13700H 14 nhân",
+        "RTX 4070 8GB",
+        "Màn hình QHD 165Hz",
+        "Bàn phím RGB Omron"
+      ],
+      "createdAt": "2025-12-03T17:42:58.389Z",
+      "updatedAt": "2025-12-03T17:42:58.389Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935efc",
+      "slug": "laptop-razer-blade-15",
+      "name": "Laptop Gaming Razer Blade 15 i7-13800H RTX 4070",
+      "price": 59990000,
+      "originalPrice": 68990000,
+      "rating": 4.8,
+      "reviewCount": 76,
+      "mainImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&q=80",
+      "gallery": [],
+      "description": "Razer Blade 15 - Laptop gaming mỏng nhẹ cao cấp với thiết kế premium.",
+      "category": "Laptop Gaming",
+      "brand": "Razer",
+      "badge": "Premium",
+      "specs": {
+        "cpu": "Intel Core i7-13800H",
+        "ram": "16GB DDR5 5200MHz",
+        "gpu": "NVIDIA RTX 4070 8GB",
+        "storage": "1TB NVMe SSD",
+        "display": "15.6\" QHD 240Hz",
+        "weight": "2.01kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Thiết kế CNC nhôm nguyên khối",
+        "i7-13800H 14 nhân",
+        "RTX 4070 8GB",
+        "Màn hình QHD 240Hz calibrated"
+      ],
+      "createdAt": "2025-12-03T17:42:58.394Z",
+      "updatedAt": "2025-12-03T17:42:58.394Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935efe",
+      "slug": "laptop-asus-tuf-a15",
+      "name": "Laptop Gaming ASUS TUF A15 Ryzen 7 7735HS RTX 4060",
+      "price": 29990000,
+      "originalPrice": 34990000,
+      "rating": 4.6,
+      "reviewCount": 189,
+      "mainImage": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800&q=80",
+      "gallery": [],
+      "description": "ASUS TUF A15 với chip AMD Ryzen, hiệu năng tốt, giá cả hợp lý.",
+      "category": "Laptop Gaming",
+      "brand": "ASUS",
+      "badge": null,
+      "specs": {
+        "cpu": "AMD Ryzen 7 7735HS",
+        "ram": "16GB DDR5 4800MHz",
+        "gpu": "NVIDIA RTX 4060 8GB",
+        "storage": "512GB NVMe SSD",
+        "display": "15.6\" FHD 144Hz",
+        "weight": "2.2kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Ryzen 7 7735HS 8 nhân",
+        "RTX 4060 8GB",
+        "Độ bền chuẩn quân đội MIL-STD-810H",
+        "Màn hình 144Hz"
+      ],
+      "createdAt": "2025-12-03T17:42:58.399Z",
+      "updatedAt": "2025-12-03T17:42:58.399Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f00",
+      "slug": "laptop-msi-cyborg-15",
+      "name": "Laptop Gaming MSI Cyborg 15 i5-12450H RTX 4050",
+      "price": 19990000,
+      "originalPrice": 23990000,
+      "rating": 4.4,
+      "reviewCount": 223,
+      "mainImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+      "gallery": [],
+      "description": "MSI Cyborg 15 - Laptop gaming nhẹ, giá rẻ, thiết kế trong suốt độc đáo.",
+      "category": "Laptop Gaming",
+      "brand": "MSI",
+      "badge": "Nhẹ nhất",
+      "specs": {
+        "cpu": "Intel Core i5-12450H",
+        "ram": "8GB DDR5 4800MHz",
+        "gpu": "NVIDIA RTX 4050 6GB",
+        "storage": "512GB NVMe SSD",
+        "display": "15.6\" FHD 144Hz",
+        "weight": "1.98kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Thiết kế trong suốt độc đáo",
+        "i5-12450H 8 nhân",
+        "RTX 4050 6GB",
+        "Trọng lượng dưới 2kg"
+      ],
+      "createdAt": "2025-12-03T17:42:58.404Z",
+      "updatedAt": "2025-12-03T17:42:58.404Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f02",
+      "slug": "laptop-alienware-m16",
+      "name": "Laptop Gaming Alienware M16 R2 i9-14900HX RTX 4080",
+      "price": 89990000,
+      "originalPrice": 99990000,
+      "rating": 4.9,
+      "reviewCount": 54,
+      "mainImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&q=80",
+      "gallery": [],
+      "description": "Alienware M16 R2 - Laptop gaming cao cấp với thiết kế futuristic đặc trưng.",
+      "category": "Laptop Gaming",
+      "brand": "Dell",
+      "badge": "Alienware",
+      "specs": {
+        "cpu": "Intel Core i9-14900HX",
+        "ram": "32GB DDR5 5600MHz",
+        "gpu": "NVIDIA RTX 4080 12GB",
+        "storage": "2TB NVMe SSD",
+        "display": "16\" QHD+ 240Hz",
+        "weight": "2.9kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Thiết kế Alienware iconic",
+        "i9-14900HX 24 nhân",
+        "RTX 4080 12GB",
+        "AlienFX RGB toàn bộ"
+      ],
+      "createdAt": "2025-12-03T17:42:58.410Z",
+      "updatedAt": "2025-12-03T17:42:58.410Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f04",
+      "slug": "laptop-asus-zephyrus-duo-16",
+      "name": "Laptop Gaming ASUS ROG Zephyrus Duo 16 i9 RTX 4090",
+      "price": 139990000,
+      "originalPrice": 159990000,
+      "rating": 5,
+      "reviewCount": 38,
+      "mainImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+      "gallery": [],
+      "description": "ROG Zephyrus Duo 16 - Laptop gaming 2 màn hình độc đáo, hiệu năng đỉnh cao.",
+      "category": "Laptop Gaming",
+      "brand": "ASUS",
+      "badge": "Dual Screen",
+      "specs": {
+        "cpu": "Intel Core i9-13980HX",
+        "ram": "64GB DDR5 4800MHz",
+        "gpu": "NVIDIA RTX 4090 16GB",
+        "storage": "4TB NVMe SSD",
+        "display": "16\" 4K 120Hz Mini LED + 14\" 4K ScreenPad",
+        "weight": "2.7kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Màn hình kép ScreenPad Plus",
+        "i9-13980HX + RTX 4090",
+        "Màn hình Mini LED 4K",
+        "AniMe Matrix LED"
+      ],
+      "createdAt": "2025-12-03T17:42:58.415Z",
+      "updatedAt": "2025-12-03T17:42:58.415Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f06",
+      "slug": "laptop-lenovo-legion-7i",
+      "name": "Laptop Gaming Lenovo Legion 7i i9-14900HX RTX 4080",
+      "price": 74990000,
+      "originalPrice": 84990000,
+      "rating": 4.8,
+      "reviewCount": 92,
+      "mainImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&q=80",
+      "gallery": [],
+      "description": "Legion 7i - Laptop gaming cao cấp với thiết kế sang trọng, hiệu năng mạnh mẽ.",
+      "category": "Laptop Gaming",
+      "brand": "Lenovo",
+      "badge": null,
+      "specs": {
+        "cpu": "Intel Core i9-14900HX",
+        "ram": "32GB DDR5 5600MHz",
+        "gpu": "NVIDIA RTX 4080 12GB",
+        "storage": "2TB NVMe SSD",
+        "display": "16\" 2.5K 240Hz IPS",
+        "weight": "2.5kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "i9-14900HX 24 nhân",
+        "RTX 4080 12GB",
+        "Màn hình 16:10 2.5K 240Hz",
+        "Legion Coldfront Hyper"
+      ],
+      "createdAt": "2025-12-03T17:42:58.420Z",
+      "updatedAt": "2025-12-03T17:42:58.420Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f08",
+      "slug": "laptop-acer-predator-helios-neo-16",
+      "name": "Laptop Gaming Acer Predator Helios Neo 16 i7 RTX 4060",
+      "price": 34990000,
+      "originalPrice": 39990000,
+      "rating": 4.6,
+      "reviewCount": 143,
+      "mainImage": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800&q=80",
+      "gallery": [],
+      "description": "Predator Helios Neo 16 - Laptop gaming tầm trung với hiệu năng tốt.",
+      "category": "Laptop Gaming",
+      "brand": "Acer",
+      "badge": null,
+      "specs": {
+        "cpu": "Intel Core i7-13700HX",
+        "ram": "16GB DDR5 5600MHz",
+        "gpu": "NVIDIA RTX 4060 8GB",
+        "storage": "1TB NVMe SSD",
+        "display": "16\" WUXGA 165Hz",
+        "weight": "2.6kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "i7-13700HX 16 nhân",
+        "RTX 4060 8GB",
+        "Màn hình 16 inch",
+        "5th Gen AeroBlade 3D Fan"
+      ],
+      "createdAt": "2025-12-03T17:42:58.426Z",
+      "updatedAt": "2025-12-03T17:42:58.426Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f0a",
+      "slug": "laptop-msi-stealth-16",
+      "name": "Laptop Gaming MSI Stealth 16 Studio i9 RTX 4070",
+      "price": 62990000,
+      "originalPrice": 72990000,
+      "rating": 4.7,
+      "reviewCount": 81,
+      "mainImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+      "gallery": [],
+      "description": "MSI Stealth 16 Studio - Laptop gaming mỏng nhẹ cao cấp, phù hợp creator.",
+      "category": "Laptop Gaming",
+      "brand": "MSI",
+      "badge": "Creator",
+      "specs": {
+        "cpu": "Intel Core i9-13900H",
+        "ram": "32GB DDR5 5200MHz",
+        "gpu": "NVIDIA RTX 4070 8GB",
+        "storage": "1TB NVMe SSD",
+        "display": "16\" 4K+ 120Hz Mini LED",
+        "weight": "1.99kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Thiết kế siêu mỏng dưới 2cm",
+        "i9-13900H 14 nhân",
+        "Màn hình 4K+ Mini LED",
+        "Trọng lượng dưới 2kg"
+      ],
+      "createdAt": "2025-12-03T17:42:58.432Z",
+      "updatedAt": "2025-12-03T17:42:58.432Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f0c",
+      "slug": "laptop-asus-rog-flow-x16",
+      "name": "Laptop Gaming ASUS ROG Flow X16 2-in-1 i9 RTX 4070",
+      "price": 69990000,
+      "originalPrice": 79990000,
+      "rating": 4.7,
+      "reviewCount": 67,
+      "mainImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&q=80",
+      "gallery": [],
+      "description": "ROG Flow X16 - Laptop gaming 2-in-1 convertible độc đáo với màn hình cảm ứng.",
+      "category": "Laptop Gaming",
+      "brand": "ASUS",
+      "badge": "2-in-1",
+      "specs": {
+        "cpu": "Intel Core i9-13900H",
+        "ram": "16GB DDR5 4800MHz",
+        "gpu": "NVIDIA RTX 4070 8GB",
+        "storage": "1TB NVMe SSD",
+        "display": "16\" 2.5K 165Hz Touch + Stylus",
+        "weight": "2.1kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Thiết kế 2-in-1 xoay 360°",
+        "i9-13900H 14 nhân",
+        "RTX 4070 8GB",
+        "Màn hình cảm ứng + Stylus"
+      ],
+      "createdAt": "2025-12-03T17:42:58.437Z",
+      "updatedAt": "2025-12-03T17:42:58.437Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f0e",
+      "slug": "laptop-msi-gaming-titan",
+      "name": "Laptop MSI Titan GT77 HX i9-13980HX RTX 4090",
+      "price": 129990000,
+      "originalPrice": 145000000,
+      "rating": 5,
+      "reviewCount": 45,
+      "mainImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&q=80",
+      "gallery": [],
+      "description": "MSI Titan GT77 HX - Laptop gaming đỉnh cao với cấu hình khủng nhất hiện nay. Thiết kế premium, bàn phím cơ Cherry MX, màn hình Mini LED 4K.",
+      "category": "Laptop Gaming",
+      "brand": "MSI",
+      "badge": "Cao cấp",
+      "specs": {
+        "cpu": "Intel Core i9-13980HX",
+        "ram": "64GB DDR5 5600MHz",
+        "gpu": "NVIDIA RTX 4090 16GB",
+        "storage": "4TB NVMe SSD",
+        "display": "17.3\" 4K 144Hz Mini LED",
+        "weight": "3.3kg"
+      },
+      "variants": [
+        {
+          "name": "RAM 64GB",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f0f"
+        },
+        {
+          "name": "SSD 4TB",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f10"
+        },
+        {
+          "name": "SSD 8TB",
+          "priceAdjustment": 12000000,
+          "_id": "693076a2f1547f4f90935f11"
+        }
+      ],
+      "highlightFeatures": [
+        "i9-13980HX 24 nhân 32 luồng - Mạnh mẽ nhất",
+        "RTX 4090 16GB Laptop - Đồ họa đỉnh cao",
+        "Màn hình 4K Mini LED - Màu sắc tuyệt đẹp",
+        "Bàn phím cơ Cherry MX - Trải nghiệm tuyệt vời",
+        "Tản nhiệt Cooler Boost Titan"
+      ],
+      "createdAt": "2025-12-03T17:42:58.443Z",
+      "updatedAt": "2025-12-03T17:42:58.443Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f13",
+      "slug": "chuot-razer-viper-v3-pro",
+      "name": "Chuột Gaming Razer Viper V3 Pro",
+      "price": 3490000,
+      "originalPrice": 3990000,
+      "rating": 4.8,
+      "reviewCount": 289,
+      "mainImage": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&q=80",
+      "gallery": [],
+      "description": "Razer Viper V3 Pro - Chuột gaming không dây nhẹ nhất thế giới chỉ 54g.",
+      "category": "Chuột Gaming",
+      "brand": "Razer",
+      "badge": "Nhẹ nhất",
+      "specs": {
+        "sensor": "Focus Pro 30K",
+        "dpi": "100-30,000 DPI",
+        "weight": "54g",
+        "battery": "95 giờ",
+        "connectivity": "Wireless HyperSpeed"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Trọng lượng 54g siêu nhẹ",
+        "Sensor Focus Pro 30K",
+        "Pin 95 giờ",
+        "HyperSpeed Wireless Gen-3"
+      ],
+      "createdAt": "2025-12-03T17:42:58.448Z",
+      "updatedAt": "2025-12-03T17:42:58.448Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f15",
+      "slug": "chuot-logitech-g502-x-plus",
+      "name": "Chuột Gaming Logitech G502 X Plus RGB Wireless",
+      "price": 3290000,
+      "originalPrice": 3790000,
+      "rating": 4.7,
+      "reviewCount": 378,
+      "mainImage": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&q=80",
+      "gallery": [],
+      "description": "G502 X Plus - Chuột gaming đa năng với 13 nút lập trình, RGB LIGHTSYNC.",
+      "category": "Chuột Gaming",
+      "brand": "Logitech",
+      "badge": null,
+      "specs": {
+        "sensor": "HERO 25K",
+        "dpi": "100-25,600 DPI",
+        "weight": "102g",
+        "battery": "120 giờ",
+        "connectivity": "Wireless + USB-C"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "13 nút lập trình",
+        "RGB LIGHTSYNC",
+        "Switch quang học",
+        "Hệ thống cân bằng tùy chỉnh"
+      ],
+      "createdAt": "2025-12-03T17:42:58.453Z",
+      "updatedAt": "2025-12-03T17:42:58.453Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f17",
+      "slug": "chuot-steelseries-rival-3",
+      "name": "Chuột Gaming SteelSeries Rival 3 RGB",
+      "price": 590000,
+      "originalPrice": 790000,
+      "rating": 4.5,
+      "reviewCount": 567,
+      "mainImage": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&q=80",
+      "gallery": [],
+      "description": "Rival 3 - Chuột gaming giá rẻ nhưng chất lượng tốt, phù hợp game thủ mới.",
+      "category": "Chuột Gaming",
+      "brand": "SteelSeries",
+      "badge": "Giá tốt",
+      "specs": {
+        "sensor": "TrueMove Core",
+        "dpi": "100-8,500 DPI",
+        "weight": "77g",
+        "connectivity": "USB Wired"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Giá cực tốt",
+        "RGB 3 vùng",
+        "Sensor TrueMove Core",
+        "Bền bỉ 60 triệu clicks"
+      ],
+      "createdAt": "2025-12-03T17:42:58.458Z",
+      "updatedAt": "2025-12-03T17:42:58.458Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f19",
+      "slug": "chuot-corsair-dark-core-rgb-pro",
+      "name": "Chuột Gaming Corsair Dark Core RGB Pro SE",
+      "price": 2190000,
+      "originalPrice": 2590000,
+      "rating": 4.6,
+      "reviewCount": 234,
+      "mainImage": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&q=80",
+      "gallery": [],
+      "description": "Dark Core RGB Pro SE - Chuột gaming đa kết nối với sạc không dây Qi.",
+      "category": "Chuột Gaming",
+      "brand": "Corsair",
+      "badge": null,
+      "specs": {
+        "sensor": "PMW3392",
+        "dpi": "100-18,000 DPI",
+        "weight": "133g",
+        "battery": "50 giờ",
+        "connectivity": "Wireless + Bluetooth + USB"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "3 chế độ kết nối",
+        "Sạc không dây Qi",
+        "8 nút lập trình",
+        "RGB 4 vùng"
+      ],
+      "createdAt": "2025-12-03T17:42:58.463Z",
+      "updatedAt": "2025-12-03T17:42:58.463Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f1b",
+      "slug": "chuot-razer-deathadder-v3",
+      "name": "Chuột Gaming Razer DeathAdder V3",
+      "price": 1690000,
+      "originalPrice": 1990000,
+      "rating": 4.7,
+      "reviewCount": 412,
+      "mainImage": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&q=80",
+      "gallery": [],
+      "description": "DeathAdder V3 - Chuột gaming ergonomic kinh điển, nhẹ chỉ 59g.",
+      "category": "Chuột Gaming",
+      "brand": "Razer",
+      "badge": null,
+      "specs": {
+        "sensor": "Focus+ 26K",
+        "dpi": "100-26,000 DPI",
+        "weight": "59g",
+        "connectivity": "USB Wired"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Thiết kế ergonomic",
+        "Trọng lượng 59g",
+        "Sensor Focus+ 26K",
+        "Gen-3 Optical Switch"
+      ],
+      "createdAt": "2025-12-03T17:42:58.467Z",
+      "updatedAt": "2025-12-03T17:42:58.467Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f1d",
+      "slug": "chuot-asus-rog-gladius-iii",
+      "name": "Chuột Gaming ASUS ROG Gladius III Wireless",
+      "price": 2390000,
+      "originalPrice": 2790000,
+      "rating": 4.6,
+      "reviewCount": 189,
+      "mainImage": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&q=80",
+      "gallery": [],
+      "description": "ROG Gladius III - Chuột gaming không dây với switch có thể thay thế.",
+      "category": "Chuột Gaming",
+      "brand": "ASUS",
+      "badge": null,
+      "specs": {
+        "sensor": "ROG AimPoint Pro",
+        "dpi": "100-36,000 DPI",
+        "weight": "79g",
+        "battery": "119 giờ",
+        "connectivity": "Wireless 2.4GHz + Bluetooth"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Switch Push-Fit có thể thay",
+        "Sensor 36,000 DPI",
+        "Pin 119 giờ",
+        "ROG Aura Sync RGB"
+      ],
+      "createdAt": "2025-12-03T17:42:58.473Z",
+      "updatedAt": "2025-12-03T17:42:58.473Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f1f",
+      "slug": "chuot-logitech-g304",
+      "name": "Chuột Gaming Logitech G304 Lightspeed Wireless",
+      "price": 790000,
+      "originalPrice": 990000,
+      "rating": 4.8,
+      "reviewCount": 789,
+      "mainImage": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&q=80",
+      "gallery": [],
+      "description": "G304 - Chuột gaming không dây giá rẻ nhất từ Logitech, hiệu năng tốt.",
+      "category": "Chuột Gaming",
+      "brand": "Logitech",
+      "badge": "Bán chạy",
+      "specs": {
+        "sensor": "HERO",
+        "dpi": "200-12,000 DPI",
+        "weight": "99g",
+        "battery": "250 giờ",
+        "connectivity": "Wireless Lightspeed"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Giá cực tốt",
+        "Wireless Lightspeed",
+        "Pin 250 giờ",
+        "Sensor HERO"
+      ],
+      "createdAt": "2025-12-03T17:42:58.477Z",
+      "updatedAt": "2025-12-03T17:42:58.477Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f21",
+      "slug": "ban-phim-corsair-k100-rgb",
+      "name": "Bàn Phím Gaming Corsair K100 RGB Optical-Mechanical",
+      "price": 5990000,
+      "originalPrice": 6990000,
+      "rating": 4.7,
+      "reviewCount": 156,
+      "mainImage": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80",
+      "gallery": [],
+      "description": "Corsair K100 RGB - Bàn phím gaming cao cấp với switch quang học, iCUE control wheel.",
+      "category": "Bàn phím",
+      "brand": "Corsair",
+      "badge": null,
+      "specs": {
+        "layout": "Full-size (104 phím)",
+        "switch": "Corsair OPX Optical",
+        "keycap": "Double-shot PBT",
+        "connectivity": "USB-C"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Switch quang học OPX",
+        "iCUE Control Wheel",
+        "RGB Per-Key",
+        "Tựa tay từ tính có đệm"
+      ],
+      "createdAt": "2025-12-03T17:42:58.481Z",
+      "updatedAt": "2025-12-03T17:42:58.481Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f23",
+      "slug": "ban-phim-razer-huntsman-v3-pro",
+      "name": "Bàn Phím Gaming Razer Huntsman V3 Pro TKL",
+      "price": 5290000,
+      "originalPrice": 5990000,
+      "rating": 4.8,
+      "reviewCount": 198,
+      "mainImage": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=800&q=80",
+      "gallery": [],
+      "description": "Huntsman V3 Pro TKL - Bàn phím gaming với switch analog, điều chỉnh actuation point.",
+      "category": "Bàn phím",
+      "brand": "Razer",
+      "badge": "Analog",
+      "specs": {
+        "layout": "TKL (87 phím)",
+        "switch": "Razer Analog Optical",
+        "keycap": "Double-shot PBT",
+        "connectivity": "Wireless + USB-C"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Switch Analog Optical Gen-2",
+        "Điều chỉnh actuation 0.1-4.0mm",
+        "Rapid Trigger",
+        "Wireless HyperSpeed"
+      ],
+      "createdAt": "2025-12-03T17:42:58.488Z",
+      "updatedAt": "2025-12-03T17:42:58.488Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f25",
+      "slug": "ban-phim-logitech-g915-tkl",
+      "name": "Bàn Phím Gaming Logitech G915 TKL Lightspeed",
+      "price": 4290000,
+      "originalPrice": 4990000,
+      "rating": 4.6,
+      "reviewCount": 287,
+      "mainImage": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80",
+      "gallery": [],
+      "description": "G915 TKL - Bàn phím gaming không dây cao cấp với thiết kế mỏng, switch low-profile.",
+      "category": "Bàn phím",
+      "brand": "Logitech",
+      "badge": null,
+      "specs": {
+        "layout": "TKL (87 phím)",
+        "switch": "GL Low-Profile",
+        "keycap": "Low-profile",
+        "battery": "40 giờ",
+        "connectivity": "Wireless Lightspeed"
+      },
+      "variants": [
+        {
+          "name": "GL Clicky",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f26"
+        },
+        {
+          "name": "GL Tactile",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f27"
+        },
+        {
+          "name": "GL Linear",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f28"
+        }
+      ],
+      "highlightFeatures": [
+        "Thiết kế mỏng chỉ 22mm",
+        "Wireless Lightspeed",
+        "Khung nhôm hàng không",
+        "Pin 40 giờ"
+      ],
+      "createdAt": "2025-12-03T17:42:58.493Z",
+      "updatedAt": "2025-12-03T17:42:58.493Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f2a",
+      "slug": "chuot-logitech-g-pro-wireless",
+      "name": "Chuột Gaming Logitech G Pro X Superlight White",
+      "price": 2990000,
+      "originalPrice": 3490000,
+      "rating": 4.9,
+      "reviewCount": 456,
+      "mainImage": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&q=80",
+        "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&q=80"
+      ],
+      "description": "Chuột gaming không dây siêu nhẹ được yêu thích nhất bởi game thủ chuyên nghiệp. Trọng lượng chỉ 63g, sensor HERO 25K chính xác tuyệt đối.",
+      "category": "Chuột Gaming",
+      "brand": "Logitech",
+      "badge": null,
+      "specs": {
+        "sensor": "HERO 25K",
+        "dpi": "100-25,600 DPI",
+        "weight": "63g",
+        "battery": "70 giờ",
+        "connectivity": "Wireless 2.4GHz"
+      },
+      "variants": [
+        {
+          "name": "Màu Trắng",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f2b"
+        },
+        {
+          "name": "Màu Đen",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f2c"
+        },
+        {
+          "name": "Màu Hồng",
+          "priceAdjustment": 200000,
+          "_id": "693076a2f1547f4f90935f2d"
+        }
+      ],
+      "highlightFeatures": [
+        "Trọng lượng siêu nhẹ chỉ 63g",
+        "Sensor HERO 25K DPI",
+        "Pin 70 giờ sử dụng",
+        "Kết nối LIGHTSPEED không trễ",
+        "Thiết kế đối xứng tiện lợi"
+      ],
+      "createdAt": "2025-12-03T17:42:58.500Z",
+      "updatedAt": "2025-12-03T17:42:58.500Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f2f",
+      "slug": "ban-phim-akko-mod007b",
+      "name": "Bàn Phím Cơ AKKO MOD007B HE Hall Effect",
+      "price": 2990000,
+      "originalPrice": 3490000,
+      "rating": 4.7,
+      "reviewCount": 456,
+      "mainImage": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=800&q=80",
+      "gallery": [],
+      "description": "AKKO MOD007B HE - Bàn phím Hall Effect giá tốt, điều chỉnh actuation point.",
+      "category": "Bàn phím",
+      "brand": "AKKO",
+      "badge": "Hot",
+      "specs": {
+        "layout": "75% (82 phím)",
+        "switch": "Hall Effect Magnetic",
+        "keycap": "Double-shot PBT",
+        "connectivity": "USB-C"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Switch Hall Effect từ tính",
+        "Điều chỉnh actuation 0.2-3.8mm",
+        "Rapid Trigger",
+        "Giá cả phải chăng"
+      ],
+      "createdAt": "2025-12-03T17:42:58.505Z",
+      "updatedAt": "2025-12-03T17:42:58.505Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f31",
+      "slug": "ban-phim-steelseries-apex-pro-tkl",
+      "name": "Bàn Phím Gaming SteelSeries Apex Pro TKL Gen 3",
+      "price": 4790000,
+      "originalPrice": 5490000,
+      "rating": 4.8,
+      "reviewCount": 223,
+      "mainImage": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80",
+      "gallery": [],
+      "description": "Apex Pro TKL Gen 3 - Bàn phím gaming với OmniPoint 2.0, Rapid Trigger.",
+      "category": "Bàn phím",
+      "brand": "SteelSeries",
+      "badge": null,
+      "specs": {
+        "layout": "TKL (87 phím)",
+        "switch": "OmniPoint 2.0 Adjustable",
+        "keycap": "PBT",
+        "connectivity": "USB-C"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "OmniPoint 2.0 Magnetic",
+        "Rapid Trigger",
+        "Điều chỉnh actuation 0.2-3.8mm",
+        "OLED Smart Display"
+      ],
+      "createdAt": "2025-12-03T17:42:58.510Z",
+      "updatedAt": "2025-12-03T17:42:58.510Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f33",
+      "slug": "ban-phim-asus-rog-azoth",
+      "name": "Bàn Phím Gaming ASUS ROG Azoth Wireless 75%",
+      "price": 6490000,
+      "originalPrice": 7490000,
+      "rating": 4.9,
+      "reviewCount": 167,
+      "mainImage": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=800&q=80",
+      "gallery": [],
+      "description": "ROG Azoth - Bàn phím gaming cao cấp với OLED display, gasket mount.",
+      "category": "Bàn phím",
+      "brand": "ASUS",
+      "badge": "Premium",
+      "specs": {
+        "layout": "75% (82 phím)",
+        "switch": "ROG NX (Hot-swap)",
+        "keycap": "Double-shot PBT",
+        "battery": "2000mAh",
+        "connectivity": "Wireless 2.4GHz + Bluetooth"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "OLED Display tích hợp",
+        "Gasket mount",
+        "Hot-swappable",
+        "Wireless 2.4GHz + BT 5.1"
+      ],
+      "createdAt": "2025-12-03T17:42:58.516Z",
+      "updatedAt": "2025-12-03T17:42:58.516Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f35",
+      "slug": "ban-phim-ducky-one-3",
+      "name": "Bàn Phím Cơ Ducky One 3 TKL RGB",
+      "price": 2490000,
+      "originalPrice": 2890000,
+      "rating": 4.7,
+      "reviewCount": 389,
+      "mainImage": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80",
+      "gallery": [],
+      "description": "Ducky One 3 TKL - Bàn phím cơ chất lượng cao, switch Cherry MX chính hãng.",
+      "category": "Bàn phím",
+      "brand": "Ducky",
+      "badge": null,
+      "specs": {
+        "layout": "TKL (87 phím)",
+        "switch": "Cherry MX",
+        "keycap": "Double-shot PBT",
+        "connectivity": "USB-C"
+      },
+      "variants": [
+        {
+          "name": "Cherry MX Red",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f36"
+        },
+        {
+          "name": "Cherry MX Blue",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f37"
+        },
+        {
+          "name": "Cherry MX Brown",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f38"
+        },
+        {
+          "name": "Cherry MX Silent Red",
+          "priceAdjustment": 200000,
+          "_id": "693076a2f1547f4f90935f39"
+        }
+      ],
+      "highlightFeatures": [
+        "Switch Cherry MX chính hãng",
+        "Keycap PBT chất lượng cao",
+        "RGB Quack Mechanics",
+        "Build quality tuyệt vời"
+      ],
+      "createdAt": "2025-12-03T17:42:58.521Z",
+      "updatedAt": "2025-12-03T17:42:58.521Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f3b",
+      "slug": "man-hinh-lg-ultragear-27gp950",
+      "name": "Màn Hình LG UltraGear 27GP950 27\" 4K 144Hz",
+      "price": 18990000,
+      "originalPrice": 22990000,
+      "rating": 4.8,
+      "reviewCount": 234,
+      "mainImage": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?w=800&q=80",
+      "gallery": [],
+      "description": "Màn hình 4K 144Hz với công nghệ Nano IPS, màu sắc chính xác 98% DCI-P3.",
+      "category": "Màn hình",
+      "brand": "LG",
+      "badge": null,
+      "specs": {
+        "size": "27 inch",
+        "resolution": "3840 x 2160 (4K)",
+        "refreshRate": "144Hz",
+        "panelType": "Nano IPS",
+        "responseTime": "1ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "4K UHD 144Hz",
+        "Nano IPS",
+        "HDR600",
+        "G-Sync + FreeSync Premium Pro"
+      ],
+      "createdAt": "2025-12-03T17:42:58.527Z",
+      "updatedAt": "2025-12-03T17:42:58.527Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f3d",
+      "slug": "man-hinh-samsung-odyssey-g7",
+      "name": "Màn Hình Samsung Odyssey G7 32\" 240Hz Cong",
+      "price": 12990000,
+      "originalPrice": 15990000,
+      "rating": 4.7,
+      "reviewCount": 312,
+      "mainImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80",
+      "gallery": [],
+      "description": "Màn hình cong 1000R với tần số 240Hz, độ cong ôm sát tầm nhìn.",
+      "category": "Màn hình",
+      "brand": "Samsung",
+      "badge": null,
+      "specs": {
+        "size": "32 inch",
+        "resolution": "2560 x 1440 (2K)",
+        "refreshRate": "240Hz",
+        "panelType": "VA Cong 1000R",
+        "responseTime": "1ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Độ cong 1000R",
+        "2K 240Hz",
+        "G-Sync + FreeSync Premium Pro",
+        "HDR600"
+      ],
+      "createdAt": "2025-12-03T17:42:58.532Z",
+      "updatedAt": "2025-12-03T17:42:58.532Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f3f",
+      "slug": "man-hinh-acer-nitro-xv272u",
+      "name": "Màn Hình Acer Nitro XV272U 27\" 170Hz IPS",
+      "price": 5990000,
+      "originalPrice": 7490000,
+      "rating": 4.5,
+      "reviewCount": 456,
+      "mainImage": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?w=800&q=80",
+      "gallery": [],
+      "description": "Màn hình gaming giá tốt với tần số 170Hz, tấm nền IPS góc nhìn rộng.",
+      "category": "Màn hình",
+      "brand": "Acer",
+      "badge": "Giá tốt",
+      "specs": {
+        "size": "27 inch",
+        "resolution": "2560 x 1440 (2K)",
+        "refreshRate": "170Hz",
+        "panelType": "IPS",
+        "responseTime": "1ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "2K 170Hz",
+        "IPS Wide Viewing",
+        "FreeSync Premium",
+        "Giá cả phải chăng"
+      ],
+      "createdAt": "2025-12-03T17:42:58.536Z",
+      "updatedAt": "2025-12-03T17:42:58.536Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f41",
+      "slug": "man-hinh-msi-mag274qrf-qd",
+      "name": "Màn Hình MSI MAG274QRF-QD 27\" Rapid IPS 165Hz",
+      "price": 7990000,
+      "originalPrice": 9490000,
+      "rating": 4.6,
+      "reviewCount": 289,
+      "mainImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80",
+      "gallery": [],
+      "description": "Màn hình Rapid IPS với Quantum Dot, màu sắc 97% DCI-P3.",
+      "category": "Màn hình",
+      "brand": "MSI",
+      "badge": null,
+      "specs": {
+        "size": "27 inch",
+        "resolution": "2560 x 1440 (2K)",
+        "refreshRate": "165Hz",
+        "panelType": "Rapid IPS QD",
+        "responseTime": "1ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Rapid IPS + Quantum Dot",
+        "97% DCI-P3",
+        "2K 165Hz",
+        "G-Sync Compatible"
+      ],
+      "createdAt": "2025-12-03T17:42:58.542Z",
+      "updatedAt": "2025-12-03T17:42:58.542Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f43",
+      "slug": "man-hinh-dell-s2722dgm",
+      "name": "Màn Hình Dell S2722DGM 27\" 165Hz VA Cong",
+      "price": 4990000,
+      "originalPrice": 6490000,
+      "rating": 4.5,
+      "reviewCount": 378,
+      "mainImage": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?w=800&q=80",
+      "gallery": [],
+      "description": "Màn hình cong giá tốt từ Dell, độ tương phản cao 3000:1.",
+      "category": "Màn hình",
+      "brand": "Dell",
+      "badge": null,
+      "specs": {
+        "size": "27 inch",
+        "resolution": "2560 x 1440 (2K)",
+        "refreshRate": "165Hz",
+        "panelType": "VA Cong 1500R",
+        "responseTime": "1ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Cong 1500R",
+        "2K 165Hz",
+        "Độ tương phản 3000:1",
+        "FreeSync Premium"
+      ],
+      "createdAt": "2025-12-03T17:42:58.546Z",
+      "updatedAt": "2025-12-03T17:42:58.546Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f45",
+      "slug": "man-hinh-viewsonic-xg2431",
+      "name": "Màn Hình ViewSonic XG2431 24\" 240Hz FHD",
+      "price": 6990000,
+      "originalPrice": 8490000,
+      "rating": 4.7,
+      "reviewCount": 198,
+      "mainImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80",
+      "gallery": [],
+      "description": "Màn hình 24 inch 240Hz, phù hợp FPS gaming chuyên nghiệp.",
+      "category": "Màn hình",
+      "brand": "ViewSonic",
+      "badge": null,
+      "specs": {
+        "size": "24 inch",
+        "resolution": "1920 x 1080 (FHD)",
+        "refreshRate": "240Hz",
+        "panelType": "IPS",
+        "responseTime": "0.5ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "24 inch 240Hz",
+        "Thời gian phản hồi 0.5ms",
+        "Reflex Latency Analyzer",
+        "FPS tối ưu"
+      ],
+      "createdAt": "2025-12-03T17:42:58.550Z",
+      "updatedAt": "2025-12-03T17:42:58.550Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f47",
+      "slug": "ban-phim-keychron-q1-pro",
+      "name": "Bàn Phím Cơ Keychron Q1 Pro QMK Wireless",
+      "price": 4590000,
+      "originalPrice": 5290000,
+      "rating": 4.8,
+      "reviewCount": 234,
+      "mainImage": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=800&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1595225476474-87563907a212?w=800&q=80",
+        "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80"
+      ],
+      "description": "Bàn phím cơ cao cấp Keychron Q1 Pro với khung nhôm CNC nguyên khối, hỗ trợ QMK/VIA, kết nối không dây và có dây.",
+      "category": "Bàn phím",
+      "brand": "Keychron",
+      "badge": "Hot",
+      "specs": {
+        "layout": "75% (82 phím)",
+        "switch": "Gateron Pro",
+        "keycap": "Double-shot PBT",
+        "battery": "4000mAh",
+        "connectivity": "Wireless + USB-C"
+      },
+      "variants": [
+        {
+          "name": "Gateron Red",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f48"
+        },
+        {
+          "name": "Gateron Blue",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f49"
+        },
+        {
+          "name": "Gateron Brown",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f4a"
+        }
+      ],
+      "highlightFeatures": [
+        "Khung nhôm CNC nguyên khối",
+        "Hot-swappable PCB",
+        "QMK/VIA programming",
+        "Kết nối không dây + USB-C",
+        "Gasket mount - Typing êm ái"
+      ],
+      "createdAt": "2025-12-03T17:42:58.555Z",
+      "updatedAt": "2025-12-03T17:42:58.555Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f4c",
+      "slug": "man-hinh-gigabyte-m32u",
+      "name": "Màn Hình GIGABYTE M32U 32\" 4K 144Hz SS IPS",
+      "price": 16990000,
+      "originalPrice": 19990000,
+      "rating": 4.8,
+      "reviewCount": 167,
+      "mainImage": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?w=800&q=80",
+      "gallery": [],
+      "description": "Màn hình 32 inch 4K 144Hz với tấm nền SS IPS, màu sắc 95% DCI-P3.",
+      "category": "Màn hình",
+      "brand": "GIGABYTE",
+      "badge": null,
+      "specs": {
+        "size": "32 inch",
+        "resolution": "3840 x 2160 (4K)",
+        "refreshRate": "144Hz",
+        "panelType": "SS IPS",
+        "responseTime": "1ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "32 inch 4K 144Hz",
+        "SS IPS 95% DCI-P3",
+        "HDMI 2.1",
+        "KVM Switch"
+      ],
+      "createdAt": "2025-12-03T17:42:58.560Z",
+      "updatedAt": "2025-12-03T17:42:58.560Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f4e",
+      "slug": "man-hinh-benq-zowie-xl2546k",
+      "name": "Màn Hình BenQ ZOWIE XL2546K 24.5\" 240Hz DyAc+",
+      "price": 11990000,
+      "originalPrice": 13990000,
+      "rating": 4.9,
+      "reviewCount": 289,
+      "mainImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80",
+      "gallery": [],
+      "description": "Màn hình esports chuyên nghiệp với DyAc+ giảm motion blur.",
+      "category": "Màn hình",
+      "brand": "BenQ",
+      "badge": "Esports",
+      "specs": {
+        "size": "24.5 inch",
+        "resolution": "1920 x 1080 (FHD)",
+        "refreshRate": "240Hz",
+        "panelType": "TN",
+        "responseTime": "0.5ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "DyAc+ Technology",
+        "240Hz TN Panel",
+        "Esports monitor",
+        "Shields bảo vệ ánh sáng"
+      ],
+      "createdAt": "2025-12-03T17:42:58.565Z",
+      "updatedAt": "2025-12-03T17:42:58.565Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f50",
+      "slug": "man-hinh-aoc-cu34g2x",
+      "name": "Màn Hình AOC CU34G2X 34\" UltraWide 144Hz Cong",
+      "price": 8990000,
+      "originalPrice": 10990000,
+      "rating": 4.6,
+      "reviewCount": 234,
+      "mainImage": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?w=800&q=80",
+      "gallery": [],
+      "description": "Màn hình UltraWide 34 inch cong, tỷ lệ 21:9 cho trải nghiệm rộng.",
+      "category": "Màn hình",
+      "brand": "AOC",
+      "badge": "UltraWide",
+      "specs": {
+        "size": "34 inch",
+        "resolution": "3440 x 1440 (UltraWide)",
+        "refreshRate": "144Hz",
+        "panelType": "VA Cong 1500R",
+        "responseTime": "1ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "34 inch UltraWide 21:9",
+        "Cong 1500R",
+        "144Hz",
+        "Giá tốt nhất phân khúc"
+      ],
+      "createdAt": "2025-12-03T17:42:58.569Z",
+      "updatedAt": "2025-12-03T17:42:58.569Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f52",
+      "slug": "cpu-intel-i9-14900k",
+      "name": "CPU Intel Core i9-14900K (24 nhân 32 luồng)",
+      "price": 14990000,
+      "originalPrice": 16990000,
+      "rating": 4.9,
+      "reviewCount": 156,
+      "mainImage": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?w=800&q=80",
+      "gallery": [],
+      "description": "CPU Intel Core i9-14900K thế hệ 14, hiệu năng đỉnh cao cho gaming và workstation.",
+      "category": "CPU",
+      "brand": "Intel",
+      "badge": null,
+      "specs": {
+        "cores": "24 nhân (8P + 16E)",
+        "threads": "32 luồng",
+        "baseClock": "3.2 GHz",
+        "boostClock": "6.0 GHz",
+        "socket": "LGA 1700",
+        "tdp": "125W (253W Turbo)"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "24 nhân 32 luồng",
+        "Turbo boost 6.0 GHz",
+        "Hỗ trợ DDR5 + DDR4",
+        "Intel UHD Graphics 770"
+      ],
+      "createdAt": "2025-12-03T17:42:58.574Z",
+      "updatedAt": "2025-12-03T17:42:58.574Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f54",
+      "slug": "cpu-amd-ryzen-9-7950x3d",
+      "name": "CPU AMD Ryzen 9 7950X3D (16 nhân 32 luồng)",
+      "price": 16990000,
+      "originalPrice": 19990000,
+      "rating": 5,
+      "reviewCount": 123,
+      "mainImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80",
+      "gallery": [],
+      "description": "CPU AMD Ryzen 9 7950X3D với 3D V-Cache, gaming performance tốt nhất.",
+      "category": "CPU",
+      "brand": "AMD",
+      "badge": "Gaming King",
+      "specs": {
+        "cores": "16 nhân",
+        "threads": "32 luồng",
+        "baseClock": "4.2 GHz",
+        "boostClock": "5.7 GHz",
+        "socket": "AM5",
+        "tdp": "120W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "16 nhân 32 luồng",
+        "3D V-Cache 128MB",
+        "Boost 5.7 GHz",
+        "Gaming tốt nhất"
+      ],
+      "createdAt": "2025-12-03T17:42:58.579Z",
+      "updatedAt": "2025-12-03T17:42:58.579Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f56",
+      "slug": "cpu-intel-i5-14600k",
+      "name": "CPU Intel Core i5-14600K (14 nhân 20 luồng)",
+      "price": 7990000,
+      "originalPrice": 8990000,
+      "rating": 4.7,
+      "reviewCount": 289,
+      "mainImage": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?w=800&q=80",
+      "gallery": [],
+      "description": "CPU Intel Core i5-14600K tầm trung, hiệu năng tốt, giá cả hợp lý.",
+      "category": "CPU",
+      "brand": "Intel",
+      "badge": null,
+      "specs": {
+        "cores": "14 nhân (6P + 8E)",
+        "threads": "20 luồng",
+        "baseClock": "3.5 GHz",
+        "boostClock": "5.3 GHz",
+        "socket": "LGA 1700",
+        "tdp": "125W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "14 nhân 20 luồng",
+        "Boost 5.3 GHz",
+        "Giá cả phải chăng",
+        "Tối ưu gaming"
+      ],
+      "createdAt": "2025-12-03T17:42:58.584Z",
+      "updatedAt": "2025-12-03T17:42:58.584Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f58",
+      "slug": "cpu-amd-ryzen-5-7600x",
+      "name": "CPU AMD Ryzen 5 7600X (6 nhân 12 luồng)",
+      "price": 5990000,
+      "originalPrice": 6990000,
+      "rating": 4.6,
+      "reviewCount": 367,
+      "mainImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80",
+      "gallery": [],
+      "description": "CPU AMD Ryzen 5 7600X giá tốt, hiệu năng ấn tượng cho gaming 1080p/1440p.",
+      "category": "CPU",
+      "brand": "AMD",
+      "badge": "Giá tốt",
+      "specs": {
+        "cores": "6 nhân",
+        "threads": "12 luồng",
+        "baseClock": "4.7 GHz",
+        "boostClock": "5.3 GHz",
+        "socket": "AM5",
+        "tdp": "105W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "6 nhân 12 luồng",
+        "Boost 5.3 GHz",
+        "Zen 4 Architecture",
+        "Giá tốt"
+      ],
+      "createdAt": "2025-12-03T17:42:58.589Z",
+      "updatedAt": "2025-12-03T17:42:58.589Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f5a",
+      "slug": "cpu-intel-i7-14700k",
+      "name": "CPU Intel Core i7-14700K (20 nhân 28 luồng)",
+      "price": 11990000,
+      "originalPrice": 13490000,
+      "rating": 4.8,
+      "reviewCount": 198,
+      "mainImage": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?w=800&q=80",
+      "gallery": [],
+      "description": "CPU Intel Core i7-14700K cân bằng tốt giữa giá và hiệu năng.",
+      "category": "CPU",
+      "brand": "Intel",
+      "badge": null,
+      "specs": {
+        "cores": "20 nhân (8P + 12E)",
+        "threads": "28 luồng",
+        "baseClock": "3.4 GHz",
+        "boostClock": "5.6 GHz",
+        "socket": "LGA 1700",
+        "tdp": "125W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "20 nhân 28 luồng",
+        "Boost 5.6 GHz",
+        "Đa nhiệm tốt",
+        "Tối ưu gaming + work"
+      ],
+      "createdAt": "2025-12-03T17:42:58.595Z",
+      "updatedAt": "2025-12-03T17:42:58.595Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f5c",
+      "slug": "vga-rtx-4090-asus",
+      "name": "VGA ASUS ROG Strix GeForce RTX 4090 OC 24GB",
+      "price": 54990000,
+      "originalPrice": 59990000,
+      "rating": 5,
+      "reviewCount": 89,
+      "mainImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&q=80",
+      "gallery": [],
+      "description": "Card đồ họa RTX 4090 đỉnh cao nhất hiện nay, chiến mọi game 4K.",
+      "category": "VGA",
+      "brand": "ASUS",
+      "badge": "Flagship",
+      "specs": {
+        "gpu": "NVIDIA GeForce RTX 4090",
+        "vram": "24GB GDDR6X",
+        "baseClock": "2.23 GHz",
+        "boostClock": "2.64 GHz",
+        "tdp": "450W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "RTX 4090 24GB",
+        "Tản nhiệt Tri-Fan",
+        "OC Mode 2.64 GHz",
+        "DLSS 3 + Ray Tracing"
+      ],
+      "createdAt": "2025-12-03T17:42:58.599Z",
+      "updatedAt": "2025-12-03T17:42:58.599Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f5e",
+      "slug": "vga-rtx-4080-msi",
+      "name": "VGA MSI GeForce RTX 4080 GAMING X TRIO 16GB",
+      "price": 34990000,
+      "originalPrice": 38990000,
+      "rating": 4.8,
+      "reviewCount": 134,
+      "mainImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80",
+      "gallery": [],
+      "description": "RTX 4080 với tản nhiệt Tri Frozr 3, hiệu năng cao cho gaming 4K.",
+      "category": "VGA",
+      "brand": "MSI",
+      "badge": null,
+      "specs": {
+        "gpu": "NVIDIA GeForce RTX 4080",
+        "vram": "16GB GDDR6X",
+        "boostClock": "2.55 GHz",
+        "tdp": "320W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "RTX 4080 16GB",
+        "Tri Frozr 3 Cooling",
+        "Boost 2.55 GHz",
+        "DLSS 3"
+      ],
+      "createdAt": "2025-12-03T17:42:58.605Z",
+      "updatedAt": "2025-12-03T17:42:58.605Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f60",
+      "slug": "man-hinh-asus-rog-swift-oled",
+      "name": "Màn Hình ASUS ROG Swift OLED PG27AQDM 27\" 240Hz",
+      "price": 24990000,
+      "originalPrice": 28990000,
+      "rating": 5,
+      "reviewCount": 78,
+      "mainImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80",
+        "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?w=800&q=80"
+      ],
+      "description": "Màn hình gaming OLED đỉnh cao với tần số quét 240Hz, thời gian phản hồi 0.03ms. Màu sắc hoàn hảo, độ tương phản vô cực.",
+      "category": "Màn hình",
+      "brand": "ASUS",
+      "badge": "Cao cấp",
+      "specs": {
+        "size": "27 inch",
+        "resolution": "2560 x 1440 (2K)",
+        "refreshRate": "240Hz",
+        "panelType": "OLED",
+        "responseTime": "0.03ms"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Tấm nền OLED - Màu sắc tuyệt đẹp",
+        "Tần số quét 240Hz",
+        "Thời gian phản hồi 0.03ms",
+        "HDR True Black 400",
+        "G-Sync Compatible"
+      ],
+      "createdAt": "2025-12-03T17:42:58.610Z",
+      "updatedAt": "2025-12-03T17:42:58.610Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f62",
+      "slug": "vga-rtx-4070-gigabyte",
+      "name": "VGA GIGABYTE GeForce RTX 4070 GAMING OC 12GB",
+      "price": 16990000,
+      "originalPrice": 19490000,
+      "rating": 4.7,
+      "reviewCount": 267,
+      "mainImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&q=80",
+      "gallery": [],
+      "description": "RTX 4070 tầm trung cao, chiến tốt game 2K/4K.",
+      "category": "VGA",
+      "brand": "GIGABYTE",
+      "badge": null,
+      "specs": {
+        "gpu": "NVIDIA GeForce RTX 4070",
+        "vram": "12GB GDDR6X",
+        "boostClock": "2.48 GHz",
+        "tdp": "200W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "RTX 4070 12GB",
+        "WINDFORCE Cooling",
+        "Boost 2.48 GHz",
+        "Tiết kiệm điện"
+      ],
+      "createdAt": "2025-12-03T17:42:58.615Z",
+      "updatedAt": "2025-12-03T17:42:58.615Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f64",
+      "slug": "vga-rx-7900xtx-sapphire",
+      "name": "VGA Sapphire Nitro+ AMD Radeon RX 7900 XTX 24GB",
+      "price": 28990000,
+      "originalPrice": 32990000,
+      "rating": 4.8,
+      "reviewCount": 98,
+      "mainImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80",
+      "gallery": [],
+      "description": "RX 7900 XTX flagship AMD, hiệu năng cạnh tranh RTX 4080.",
+      "category": "VGA",
+      "brand": "Sapphire",
+      "badge": "AMD",
+      "specs": {
+        "gpu": "AMD Radeon RX 7900 XTX",
+        "vram": "24GB GDDR6",
+        "boostClock": "2.68 GHz",
+        "tdp": "355W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "RX 7900 XTX 24GB",
+        "Boost 2.68 GHz",
+        "FSR 3 + Ray Tracing",
+        "24GB VRAM lớn"
+      ],
+      "createdAt": "2025-12-03T17:42:58.621Z",
+      "updatedAt": "2025-12-03T17:42:58.621Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f66",
+      "slug": "vga-rtx-4060ti-asus",
+      "name": "VGA ASUS Dual GeForce RTX 4060 Ti OC 16GB",
+      "price": 12990000,
+      "originalPrice": 14990000,
+      "rating": 4.6,
+      "reviewCount": 312,
+      "mainImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&q=80",
+      "gallery": [],
+      "description": "RTX 4060 Ti 16GB, phiên bản VRAM lớn cho gaming + AI.",
+      "category": "VGA",
+      "brand": "ASUS",
+      "badge": null,
+      "specs": {
+        "gpu": "NVIDIA GeForce RTX 4060 Ti",
+        "vram": "16GB GDDR6",
+        "boostClock": "2.59 GHz",
+        "tdp": "165W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "RTX 4060 Ti 16GB",
+        "VRAM 16GB",
+        "Boost 2.59 GHz",
+        "DLSS 3"
+      ],
+      "createdAt": "2025-12-03T17:42:58.626Z",
+      "updatedAt": "2025-12-03T17:42:58.626Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f68",
+      "slug": "vga-rx-6700xt-powercolor",
+      "name": "VGA PowerColor Red Devil AMD Radeon RX 6700 XT 12GB",
+      "price": 8990000,
+      "originalPrice": 10990000,
+      "rating": 4.5,
+      "reviewCount": 234,
+      "mainImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80",
+      "gallery": [],
+      "description": "RX 6700 XT giá tốt, chiến game 1440p mượt mà.",
+      "category": "VGA",
+      "brand": "PowerColor",
+      "badge": "Giá tốt",
+      "specs": {
+        "gpu": "AMD Radeon RX 6700 XT",
+        "vram": "12GB GDDR6",
+        "boostClock": "2.62 GHz",
+        "tdp": "230W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "RX 6700 XT 12GB",
+        "Boost 2.62 GHz",
+        "Giá cực tốt",
+        "1440p gaming"
+      ],
+      "createdAt": "2025-12-03T17:42:58.631Z",
+      "updatedAt": "2025-12-03T17:42:58.631Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f6a",
+      "slug": "vga-rtx-4070ti-evga",
+      "name": "VGA EVGA GeForce RTX 4070 Ti FTW3 ULTRA 12GB",
+      "price": 24990000,
+      "originalPrice": 27990000,
+      "rating": 4.7,
+      "reviewCount": 156,
+      "mainImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&q=80",
+      "gallery": [],
+      "description": "RTX 4070 Ti với tản nhiệt iCX3, OC cao, hiệu năng mạnh mẽ.",
+      "category": "VGA",
+      "brand": "EVGA",
+      "badge": null,
+      "specs": {
+        "gpu": "NVIDIA GeForce RTX 4070 Ti",
+        "vram": "12GB GDDR6X",
+        "boostClock": "2.67 GHz",
+        "tdp": "285W"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "RTX 4070 Ti 12GB",
+        "iCX3 Cooling",
+        "OC 2.67 GHz",
+        "4K gaming"
+      ],
+      "createdAt": "2025-12-03T17:42:58.635Z",
+      "updatedAt": "2025-12-03T17:42:58.635Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f6c",
+      "slug": "pc-gaming-rtx-4070",
+      "name": "PC GVN Intel i5-14400F | RTX 4070 | 32GB RAM",
+      "price": 32990000,
+      "originalPrice": 37990000,
+      "rating": 4.7,
+      "reviewCount": 156,
+      "mainImage": "https://images.unsplash.com/photo-1591238372338-a663a95ab2f4?w=800&q=80",
+      "gallery": [],
+      "description": "PC Gaming tầm trung với hiệu năng mạnh mẽ, phù hợp cho game thủ và streamer. Chiến mượt các tựa game ở độ phân giải 2K.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": null,
+      "specs": {
+        "cpu": "Intel Core i5-14400F",
+        "ram": "32GB DDR4 3200MHz",
+        "gpu": "NVIDIA RTX 4070 12GB",
+        "storage": "1TB NVMe SSD"
+      },
+      "variants": [
+        {
+          "name": "RAM 32GB",
+          "priceAdjustment": 0,
+          "_id": "693076a2f1547f4f90935f6d"
+        },
+        {
+          "name": "RAM 64GB",
+          "priceAdjustment": 4000000,
+          "_id": "693076a2f1547f4f90935f6e"
+        }
+      ],
+      "highlightFeatures": [
+        "i5-14400F 10 nhân - Hiệu năng tốt",
+        "RTX 4070 12GB - Chiến game 2K/4K",
+        "RAM 32GB - Đa nhiệm thoải mái",
+        "SSD 1TB NVMe - Tốc độ cao"
+      ],
+      "createdAt": "2025-12-03T17:42:58.641Z",
+      "updatedAt": "2025-12-03T17:42:58.641Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f70",
+      "slug": "laptop-acer-nitro-5",
+      "name": "Laptop Gaming Acer Nitro 5 i5-12500H RTX 4050",
+      "price": 20990000,
+      "originalPrice": 24990000,
+      "rating": 4.5,
+      "reviewCount": 289,
+      "mainImage": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800&q=80",
+      "gallery": [],
+      "description": "Laptop gaming giá tốt với hiệu năng ổn định. Phù hợp cho game thủ mới bắt đầu hoặc sinh viên cần laptop đa năng.",
+      "category": "Laptop Gaming",
+      "brand": "Acer",
+      "badge": null,
+      "specs": {
+        "cpu": "Intel Core i5-12500H",
+        "ram": "16GB DDR4 3200MHz",
+        "gpu": "NVIDIA RTX 4050 6GB",
+        "storage": "512GB NVMe SSD",
+        "display": "15.6\" FHD 144Hz",
+        "weight": "2.3kg"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "i5-12500H 12 nhân",
+        "RTX 4050 6GB GDDR6",
+        "Màn hình 144Hz",
+        "Tản nhiệt dual-fan"
+      ],
+      "createdAt": "2025-12-03T17:42:58.683Z",
+      "updatedAt": "2025-12-03T17:42:58.683Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f72",
+      "slug": "pc-gaming-amd-rx-7900xtx",
+      "name": "PC GVN AMD Ryzen 9 7950X3D | RX 7900 XTX",
+      "price": 78990000,
+      "originalPrice": 89990000,
+      "rating": 4.9,
+      "reviewCount": 92,
+      "mainImage": "https://images.unsplash.com/photo-1600861194802-a2b11f26e9c4?w=800&q=80",
+      "gallery": [],
+      "description": "PC Gaming AMD cao cấp với công nghệ 3D V-Cache, hiệu năng gaming vượt trội.",
+      "category": "PC Gaming",
+      "brand": "GVN",
+      "badge": "AMD Build",
+      "specs": {
+        "cpu": "AMD Ryzen 9 7950X3D",
+        "ram": "64GB DDR5 6000MHz",
+        "gpu": "AMD RX 7900 XTX 24GB",
+        "storage": "2TB NVMe Gen4 SSD"
+      },
+      "variants": [],
+      "highlightFeatures": [
+        "Ryzen 9 7950X3D với 3D V-Cache",
+        "RX 7900 XTX 24GB GDDR6",
+        "RAM 64GB DDR5 6000MHz",
+        "Tản nhiệt AIO 360mm"
+      ],
+      "createdAt": "2025-12-03T17:42:58.724Z",
+      "updatedAt": "2025-12-03T17:42:58.724Z",
+      "__v": 0
+    }
+  ],
+  "news": [
+    {
+      "_id": "693076a2f1547f4f90935f74",
+      "slug": "nvidia-rtx-50-series-announcement",
+      "title": "NVIDIA công bố dòng card RTX 50 series với hiệu năng vượt trội",
+      "excerpt": "Thế hệ card đồ họa mới nhất của NVIDIA hứa hẹn mang đến hiệu năng gấp đôi so với thế hệ trước, hỗ trợ AI và ray tracing thế hệ mới.",
+      "content": null,
+      "image": "/nvidia-rtx-graphics-card.jpg",
+      "author": "GEARVN Editorial",
+      "publishedAt": "2024-01-14T17:00:00.000Z",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.765Z",
+      "updatedAt": "2025-12-03T17:42:58.765Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935f75",
+      "slug": "intel-core-ultra-review",
+      "title": "Đánh giá chi tiết Intel Core Ultra 9 285K - CPU gaming mạnh nhất",
+      "excerpt": "Intel Core Ultra 9 285K với kiến trúc mới hoàn toàn, hiệu năng đơn nhân và đa nhân đều vượt trội, tiêu thụ điện năng tối ưu.",
+      "content": null,
+      "image": "/intel-processor-cpu.jpg",
+      "author": "Tech Reviewer",
+      "publishedAt": "2024-01-11T17:00:00.000Z",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.765Z",
+      "updatedAt": "2025-12-03T17:42:58.765Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935f76",
+      "slug": "gaming-monitor-buying-guide-2024",
+      "title": "Hướng dẫn chọn mua màn hình gaming 2024",
+      "excerpt": "Tổng hợp đầy đủ các tiêu chí quan trọng khi chọn màn hình gaming: tần số quét, độ phân giải, tấm nền, thời gian phản hồi.",
+      "content": null,
+      "image": "/gaming-monitor-display.jpg",
+      "author": "Hardware Guide",
+      "publishedAt": "2024-01-09T17:00:00.000Z",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.765Z",
+      "updatedAt": "2025-12-03T17:42:58.765Z"
+    },
+    {
+      "_id": "693076a2f1547f4f90935f77",
+      "slug": "best-gaming-laptops-2024",
+      "title": "Top 10 laptop gaming đáng mua nhất năm 2024",
+      "excerpt": "Danh sách những chiếc laptop gaming tốt nhất hiện nay, phù hợp với mọi tầm giá từ sinh viên đến game thủ chuyên nghiệp.",
+      "content": null,
+      "image": "/gaming-laptop.png",
+      "author": "Product Expert",
+      "publishedAt": "2024-01-07T17:00:00.000Z",
+      "__v": 0,
+      "createdAt": "2025-12-03T17:42:58.765Z",
+      "updatedAt": "2025-12-03T17:42:58.765Z"
+    }
+  ],
+  "promotions": [
+    {
+      "_id": "693076a2f1547f4f90935f79",
+      "slug": "black-friday",
+      "title": "Black Friday",
+      "description": "Giảm đến 50% toàn bộ Gaming Gear",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&q=80",
+      "discountText": "Giảm đến 50%",
+      "startDate": "2024-11-19T17:00:00.000Z",
+      "endDate": "2024-11-29T17:00:00.000Z",
+      "featured": true,
+      "terms": [
+        "Áp dụng cho tất cả sản phẩm Gaming Gear",
+        "Không áp dụng đồng thời với chương trình khác",
+        "Số lượng có hạn, áp dụng đến hết 30/11",
+        "Miễn phí vận chuyển cho đơn hàng trên 5 triệu"
+      ],
+      "createdAt": "2025-12-03T17:42:58.774Z",
+      "updatedAt": "2025-12-03T17:42:58.774Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f7b",
+      "slug": "build-pc",
+      "title": "Build PC",
+      "description": "Tặng màn hình khi mua PC",
+      "image": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&q=80",
+      "discountText": "Tặng màn hình 24 inch",
+      "startDate": "2024-10-31T17:00:00.000Z",
+      "endDate": "2024-12-30T17:00:00.000Z",
+      "featured": true,
+      "terms": [
+        "Áp dụng khi mua PC Gaming từ 30 triệu",
+        "Tặng màn hình 24 inch FHD 75Hz",
+        "Hoặc giảm ngay 3 triệu nếu không nhận màn hình",
+        "Bảo hành chính hãng đầy đủ"
+      ],
+      "createdAt": "2025-12-03T17:42:58.777Z",
+      "updatedAt": "2025-12-03T17:42:58.777Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f7d",
+      "slug": "laptop-gaming",
+      "title": "Laptop Gaming",
+      "description": "Trả góp 0% - Voucher 500K",
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+      "discountText": "Trả góp 0% + Voucher 500K",
+      "startDate": "2024-11-14T17:00:00.000Z",
+      "endDate": "2024-12-14T17:00:00.000Z",
+      "featured": true,
+      "terms": [
+        "Trả góp 0% lãi suất qua thẻ tín dụng",
+        "Tặng voucher 500K cho đơn hàng từ 20 triệu",
+        "Miễn phí giao hàng toàn quốc",
+        "Tặng thêm chuột + balo laptop"
+      ],
+      "createdAt": "2025-12-03T17:42:58.782Z",
+      "updatedAt": "2025-12-03T17:42:58.782Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f7f",
+      "slug": "gaming-gear",
+      "title": "Gaming Gear",
+      "description": "Mua 1 tặng 1 các phụ kiện",
+      "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80",
+      "discountText": "Mua 1 tặng 1",
+      "startDate": "2024-11-09T17:00:00.000Z",
+      "endDate": "2024-12-09T17:00:00.000Z",
+      "featured": false,
+      "terms": [
+        "Mua chuột gaming tặng mousepad",
+        "Mua bàn phím tặng keycap set",
+        "Áp dụng cho sản phẩm có giá từ 500K",
+        "Quà tặng có giá trị tương đương hoặc thấp hơn"
+      ],
+      "createdAt": "2025-12-03T17:42:58.789Z",
+      "updatedAt": "2025-12-03T17:42:58.789Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f81",
+      "slug": "monitor-sale",
+      "title": "Flash Sale Màn Hình",
+      "description": "Giảm 30% màn hình gaming",
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80",
+      "discountText": "Giảm 30%",
+      "startDate": "2024-11-21T17:00:00.000Z",
+      "endDate": "2024-11-24T17:00:00.000Z",
+      "featured": true,
+      "terms": [
+        "Flash sale 3 ngày duy nhất",
+        "Áp dụng cho màn hình gaming từ 144Hz",
+        "Giới hạn 5 sản phẩm/khách hàng",
+        "Không áp dụng cho sản phẩm đã giảm giá"
+      ],
+      "createdAt": "2025-12-03T17:42:58.796Z",
+      "updatedAt": "2025-12-03T17:42:58.796Z",
+      "__v": 0
+    },
+    {
+      "_id": "693076a2f1547f4f90935f83",
+      "slug": "student-discount",
+      "title": "Ưu đãi Sinh viên",
+      "description": "Giảm 10% cho sinh viên",
+      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&q=80",
+      "discountText": "Giảm 10%",
+      "startDate": "2024-10-31T17:00:00.000Z",
+      "endDate": "2024-12-30T17:00:00.000Z",
+      "featured": false,
+      "terms": [
+        "Xuất trình thẻ sinh viên hợp lệ",
+        "Áp dụng cho laptop và PC gaming",
+        "Tối đa 3 triệu đồng",
+        "Miễn phí vận chuyển nội thành"
+      ],
+      "createdAt": "2025-12-03T17:42:58.801Z",
+      "updatedAt": "2025-12-03T17:42:58.801Z",
+      "__v": 0
+    }
+  ]
+}
